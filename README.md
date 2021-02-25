@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+You can learn more about me through:
+
+* [My Resume](Joaquin%20Casares.pdf)
+* [AngelList](https://angel.co/u/joaquincasares)
+* [LinkedIn](https://www.linkedin.com/in/joaquincasares/)
+
 <!--
 **joaquincasares/joaquincasares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
