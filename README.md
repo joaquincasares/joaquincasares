@@ -2,8 +2,9 @@
 
 You can learn more about me through:
 
-* [My Resume](Joaquin%20Casares.pdf)
-* [AngelList](https://angel.co/u/joaquincasares)
+* [My Website](https://joaquincasares.com)
+* [My Resume](https://joaquincasares.com/Resume%20-%20Joaquin%20Casares.pdf)
+* [Wellfound (formerly AngelList)](https://angel.co/u/joaquincasares)
 * [LinkedIn](https://www.linkedin.com/in/joaquincasares/)
 
 <!--
